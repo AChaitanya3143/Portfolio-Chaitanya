@@ -184,11 +184,11 @@ section .header{
 }
 
 .skills .percantage-bar-rn {
-    width: 75%;
+    width: 70%;
 }
 
 .skills .percantage-bar-py {
-    width: 20%;
+    width: 60%;
 }
 
 .skills .percantage-bar-njs{
@@ -196,11 +196,11 @@ section .header{
 }
 
 .skills .percantage-bar-pe{
-    width: 40%;
+    width: 60%;
 }
 
 .skills .percantage-bar-dbm{
-    width: 45%;
+    width: 65%;
 }
 
 .skills .percantage-text{
